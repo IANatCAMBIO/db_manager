@@ -1,0 +1,9 @@
+# Build products: objects, dependency files, the icon set, the bundle.
+build/
+camb.io_db_mgr.app/
+
+# The development sandbox: every database, lock and backup a run or a
+# test makes lives under dev/.
+dev/
+
+.DS_Store
